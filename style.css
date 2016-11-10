@@ -1,0 +1,14 @@
+@charset "utf-8";
+table
+{
+	background-color:#E5E5E5;
+}
+
+a
+{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#00C;
+	text-decoration:underline;
+	font-size:12px;
+	font-weight:bold;
+}
